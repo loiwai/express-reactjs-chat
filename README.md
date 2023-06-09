@@ -1,2 +1,2 @@
-# express-reactjs-chat
-Building scalable chat with ExpressJS, ReactJS, and ChatEngine.io
+# nodejs-reactjs-chat
+Building scalable chat with NodeJS, ReactJS, and ChatEngine.io
